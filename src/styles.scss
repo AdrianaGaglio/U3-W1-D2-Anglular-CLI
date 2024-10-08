@@ -1,1 +1,18 @@
 /* You can add global styles to this file, and also import other style files */
+@import "../node_modules/bootstrap/dist/css/bootstrap.min";
+
+* {
+  text-align: center;
+}
+
+.yellow {
+  color: palegoldenrod;
+}
+
+.red {
+  color: lightcoral;
+}
+
+body {
+  padding: 2rem;
+}
